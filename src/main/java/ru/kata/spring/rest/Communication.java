@@ -8,7 +8,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 import ru.kata.spring.rest.entity.User;
-
 import java.util.List;
 
 @Component
